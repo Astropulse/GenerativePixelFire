@@ -4,6 +4,9 @@ This is a project that simulates natural fire, and can render it to pixel art fo
 Built in Processing 3.5.4, and requires this environment to run. (Get processing at: https://processing.org/)
 
 
+Make sure you place "FireGenerator.pde" and the "data" folder both inside the same folder, and name that folder "FireGenerator".
+
+
 Key functions:
 
 Right Mouse Button - Draw flame
